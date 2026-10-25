@@ -1,0 +1,21 @@
+{
+  "name": "সুস্মিতা চক্রবর্তী — বাংলা শিক্ষণ কেন্দ্র",
+  "short_name": "সুস্মিতা বাংলা",
+  "description": "সপ্তম থেকে স্নাতক (পাস) বাংলা ভাষা, সাহিত্য ও ব্যাকরণ একাডেমি — শিক্ষিকা সুস্মিতা চক্রবর্তী, আক্রমপুর হাইস্কুল, হাবড়া",
+  "start_url": "./",
+  "scope": "./",
+  "id": "sushmita-bangla-portal-app",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff1f2",
+  "theme_color": "#881337",
+  "categories": ["education", "literature", "books"],
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

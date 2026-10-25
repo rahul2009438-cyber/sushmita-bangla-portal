@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="crimsonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9f1239"/>
+      <stop offset="100%" stop-color="#4c0519"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="50%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#crimsonGrad)" stroke="url(#goldGrad)" stroke-width="4"/>
+  <!-- Open Book & Quill Icon -->
+  <path d="M 28 65 Q 40 58 50 63 Q 60 58 72 65 L 72 40 Q 60 34 50 38 Q 40 34 28 40 Z" fill="#fff1f2" stroke="url(#goldGrad)" stroke-width="2"/>
+  <line x1="50" y1="38" x2="50" y2="63" stroke="#9f1239" stroke-width="2"/>
+  <!-- Golden Quill -->
+  <path d="M 68 25 Q 60 35 48 52 L 46 56 L 49 53 Q 63 38 72 23 Z" fill="url(#goldGrad)"/>
+  <!-- Bengali text 'বা' -->
+  <text x="50" y="85" font-family="'Noto Serif Bengali', serif, Arial" font-size="16" font-weight="bold" fill="url(#goldGrad)" text-anchor="middle">বাংলা</text>
+</svg>
